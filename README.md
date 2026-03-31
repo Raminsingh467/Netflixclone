@@ -1,1 +1,1 @@
-Adding co-author commit for badges.
+Adding co-author commit for badge
